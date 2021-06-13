@@ -1,0 +1,24 @@
+,enfermidade_1,enfermidade_2,enfermidade_3,enfermidade_4,enfermidade_5
+BCG,Tuberculose,-,-,-,-
+DTP,Tétano,-,-,-,-
+DTP REF (4 e 6 anos),Tétano,-,-,-,-
+Dupla adulto e tríplice acelular gestante,Tétano,Difteria,-,-,-
+Febre Amarela,Febre_Amarela,-,-,-,-
+Haemophilus influenzae b,Influenzae,-,-,-,-
+Hepatite A,Hepatite_A,-,-,-,-
+Hepatite B,Hepatite_B,-,-,-,-
+Hepatite B  em crianças até 30 dias,Hepatite_B,-,-,-,-
+Meningococo C,Meningite,-,-,-,-
+Penta,Coqueluche,Difteria,Hepatite_B,Influenzae,Tétano
+Pneumocócica(1º ref),Pneumonia,-,-,-,-
+Poliomielite,Poliomielite,-,-,-,-
+Poliomielite 4 anos,Poliomielite,-,-,-,-
+Poliomielite(1º ref),Poliomielite,-,-,-,-
+Rotavírus Humano,Rotavírus,-,-,-,-
+Sarampo,Sarampo,-,-,-,-
+Tetra Viral(SRC+VZ),Caxumba,Rubéola,Sarampo,-,-
+Tetravalente (DTP/Hib) (TETRA),Coqueluche,Difteria,Influenzae,Tétano,-
+Tríplice Bacteriana(DTP)(1º ref),Coqueluche,Difteria,Tétano,-,-
+Tríplice Viral  D1,Rubéola,Sarampo,-,-,-
+Tríplice Viral  D2,Rubéola,Sarampo,-,-,-
+dTpa gestante,Tétano,-,-,-,-
