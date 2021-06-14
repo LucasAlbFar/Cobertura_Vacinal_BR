@@ -5,7 +5,7 @@
 ## Introdução
 Quando o assunto é imunização, três palavras colocam o Brasil como destaque no cenário internacional: Programa Nacional de Imunizações. Criado em 18 de setembro de 1973, o Brasil passou a investir pesado em saúde com campanhas nacionais de vacinação (voltadas em cada ocasião para diferentes faixas etárias); capacitação e atualização técnico-gerencial para os gestores; vigilância de eventos adversos pós-vacinais e universalidade de atendimento
 
--> [Clique aqui para visualizar a análise exploratória de dados](https://github.com/LucasAlbFar/Cobertura_Vacinal_BR/blob/main/notebooks/EDA.ipynb) <-
+-> [Diretório da análise exploratória de dados](https://github.com/LucasAlbFar/Cobertura_Vacinal_BR/blob/main/notebooks/EDA.ipynb) <-
 
 
 ## Dados Utilizados
@@ -50,6 +50,8 @@ Abaixo estão os dados utilizados para a análise da cobertura vacinal no Brasil
 
 * morbidade_meningite_2008_2021_CID10.csv:
 >número de óbitos por infecção Meningocócica, entre 2008 e 2021, utilizando a Lista Estends CID-10;
+
+-> [Diretório dos dados](https://github.com/LucasAlbFar/Cobertura_Vacinal_BR/tree/main/content) <-
 
 
 ## Hípotese e questões a serem respondidas:
